@@ -1,1 +1,1 @@
-# photogallery
+# simple calculator
